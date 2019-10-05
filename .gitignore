@@ -1,3 +1,5 @@
 *.jar
 *.class
 *.tar*
+*.pem
+manifest.txt
