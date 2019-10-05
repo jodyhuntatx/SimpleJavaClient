@@ -1,4 +1,4 @@
-# Simple Java Conjur client
+# Simple Java DAP (Conjur) client
 
 ## Application build steps:
  - Download the JRE 9.0.4 tarfile from: 
@@ -7,7 +7,7 @@
 ```
 
 ## To run the example app:
- - Copy Conjur cert to local directory
+ - Copy DAP (Conjur) cert to local directory
  - Edit javademo.config with correct values for:
    - CONJUR_CERT_FILE
    - CONJUR_APPLIANCE_URL
