@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM atlassian/ubuntu-minimal:latest
 
 ENV JRE_VERSION 9.0.4
 
